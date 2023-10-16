@@ -1,0 +1,13 @@
+body{
+    background: #fff;
+}
+.bg-white{
+    background: fff(35, 17, 112, 0.584);
+}
+.card-project:hover{
+    border: 5px solid rgb(153, 16, 16);
+    cursor: pointer;
+}
+post{
+    background-color:fff ;
+}
